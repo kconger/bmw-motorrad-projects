@@ -7,7 +7,7 @@ The GitHub project tracks links to open source projects related to BMW Motorcycl
 ### BMW CAN Message Decoding ###
 CAN Message decoding done by the community.<br>
 
-By: Keith Conger, keith.conger@gmail.com<br>
+By:[Keith Conger](mailto:keith.conger@gmail.com)<br>
 [Live Document](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc)<br>
 
 ### EURO4 TFT Retrofit ###
@@ -25,7 +25,7 @@ File: docs/EURO4_TFT_Retrofit.pdf<br>
 ### CANBusGateway ###
 CAN Bluetooth serial gateway.<br>
 
-By: Keith Conger, keith.conger@gmail.com<br>
+By:[Keith Conger](mailto:keith.conger@gmail.com)<br>
 [Homepage](https://sites.google.com/thecongers.org/development/canbusgateway)<br>
 [GitHub](https://github.com/kconger/CANBusGateway)<br>
 [GitHub](https://github.com/kconger/org.thcongers.canbusgateway)<br>
@@ -36,14 +36,14 @@ By: Keith Conger, keith.conger@gmail.com<br>
 ### ohmics BMW Projects ###
 Nick's site details a variety of BMW based projects.<br>
 
-By: Nick Petrescu, petren@ohmics.com<br>
+By:[Nick Petrescu](petren@ohmics.com)<br>
 [Homepage](http://www.ohmics.com)<br>
 
 
 ### mCluster ###
 Android instrument cluster for CANBusGateway.<br>
 
-By: Keith Conger, keith.conger@gmail.com<br>
+By:[Keith Conger](mailto:keith.conger@gmail.com)<br>
 [Homepage](https://sites.google.com/thecongers.org/development/mcluster)<br>
 [GitHub](https://github.com/kconger/org.thcongers.mcluster)<br>
 
