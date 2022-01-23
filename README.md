@@ -13,7 +13,8 @@ By:[Keith Conger](mailto:keith.conger@gmail.com)<br>
 ### EURO4 TFT Retrofit ###
 Documents the steps to retrofit a TFT instrument cluster to a EURO4 bike with analog instrument cluster.
 
-File: docs/EURO4_TFT_Retrofit.pdf<br>
+By:[Keith Conger](mailto:keith.conger@gmail.com)<br>
+File: [docs/EURO4_TFT_Retrofit.pdf](https://github.com/kconger/bmw-motorrad-projects/raw/master/docs/EURO4_TFT_Retrofit.pdf)<br>
 
 ## Projects ##
 ### BMW GS CAN Sniffer ###
