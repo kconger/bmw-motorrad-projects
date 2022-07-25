@@ -52,6 +52,7 @@ By:[Keith Conger](mailto:keith.conger@gmail.com)<br>
 RPI based CAN bus data logger for BMW Motorrad.<br>
 
 [Homepage](http://motoreco.net/)<br>
+[GitHub]https://github.com/SchwarzeLanzenreiter/MotoRecoLogger<br>
 
 
 ### WunderLINQ ###
